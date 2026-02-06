@@ -8,6 +8,10 @@ A simple Home Assistant Lovelace card that wraps other cards and periodically re
 
 ### HACS (Recommended)
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=soestin&repository=hass_periodic_card_reload&category=plugin)
+
+Or manually:
+
 1. Open HACS in Home Assistant
 2. Go to "Frontend"
 3. Click the three dots menu and select "Custom repositories"
