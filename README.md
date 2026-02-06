@@ -2,6 +2,8 @@
 
 A simple Home Assistant Lovelace card that wraps other cards and periodically reloads them.
 
+![Example](https://github.com/soestin/hass_periodic_card_reload/raw/main/images/example.png)
+
 ## Installation
 
 ### HACS (Recommended)
