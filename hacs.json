@@ -1,5 +1,6 @@
 {
   "name": "Periodic Card Reload",
   "render_readme": true,
-  "filename": "periodic-card-reload.js"
+  "filename": "periodic-card-reload.js",
+  "content_in_root": true
 }
